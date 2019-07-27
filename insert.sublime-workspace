@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"tran",
+				"transform-style\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"J",
+				"JsonJson"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"div",
+				"divElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"n",
+				"phone_number"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"anima",
+				"animation-direction\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"word",
+				"word-break\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"t",
+				"inherit\ttext-shadow"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"font-v",
+				"font-variant-caps\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "insert.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/internship/insert.html",
+		"/C/Users/ROSHINI J/Desktop/pro/f1.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f1.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f7.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f6.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f5.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f4.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f3.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file42.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file41.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file37.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file40.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file39.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file38.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/a2.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file36.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file35.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file34.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file33.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file32.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file31.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file29.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file30.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/CSS Selectors.pdf",
+		"/C/Users/ROSHINI J/Desktop/a11.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/f2.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/a1.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file28.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file26.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file27.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file25.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file24.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file23.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file21.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file22.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file20.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file19.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file18.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file15.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file17.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file16.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file14.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/assignment3.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/style.css",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file13.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/assignment2.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file12.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file11.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/filea1.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file7.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file9.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file8.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file6.html",
+		"/C/Users/ROSHINI J/Desktop/mail-attachment.googleusercontent.com.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file3.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file4.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file5.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file2.html",
+		"/C/Users/ROSHINI J/Desktop/WebDevelopment/file1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "insert.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "insert.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
